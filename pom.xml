@@ -34,7 +34,7 @@
     <dependency>
       <groupId>io.gatling</groupId>
       <artifactId>gatling-core</artifactId>
-      <version>3.9.5</version> <!-- Укажите свою версию -->
+      <version>3.13.1</version> <!-- Укажите свою версию -->
     </dependency>
 
     <dependency>
